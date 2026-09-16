@@ -11,7 +11,7 @@ permissions:
 
 env:
   LOG_REPO: tmiland-lab/pfsense-community-packages
-  LOG_ISSUE: '2'  # "Upstream activity log"
+  LOG_ISSUE: '8'  # "Upstream activity log" (recreated 2026-09-16; #2 was deleted)
 
 jobs:
   monitor:
